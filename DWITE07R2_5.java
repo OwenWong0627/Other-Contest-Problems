@@ -1,13 +1,5 @@
 import java.io.*;
 import java.util.*;
-
-//Adjacency Matrix
-//O(n^2) memory
-//Adjacency List
-//O(e) memory
-//Array of List (ArrayLists)
-//ArrayList i stores all the nodes that are adjacent to node i
-
 public class DWITE07R2_5 {
   
   static int n,m;
